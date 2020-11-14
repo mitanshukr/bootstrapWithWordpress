@@ -27,6 +27,6 @@ Intially, I developed the webpages simply with the help of CSS and bootstrap and
 
 ### Reference:
 
-&copy; Brad Hussey (if any). Special thanks to **Brad Hussey**, who made this repo possible. [Checkout his course on Udemy.](https://www.udemy.com/course/bootstrap-to-wordpress/)
+&copy;Brad Hussey (if any). Special thanks to **Brad Hussey**, who made this repo possible. [Checkout his course on Udemy.](https://www.udemy.com/course/bootstrap-to-wordpress/)
 
 I followed along with the course lectures to complete this project.
