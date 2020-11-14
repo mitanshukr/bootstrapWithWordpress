@@ -6,12 +6,13 @@ A dynamic website with good looking homepage and power of Wordpress to include t
 + HTML
 + CSS
 + Bootstrap4
++ jQuery
 + PHP
 + Wordpress.org
 + Theme Layout build with [Underscore.me](https://underscores.me/)
 
 ### Strategy: 
-Intially, I developed the webpages simply with the help of CSS and bootstrap and then customized the wordpress theme layout generated with the help of underscore.me to make the website dynamic, while staying in loop with the initially built static webpages.
+Intially, I developed the webpages simply with the help of CSS and bootstrap and then customized the wordpress theme layout generated with the help of underscore.me to make the website dynamic, all this while staying in loop with the initially built static webpages.
 
 **_Check out the static UI of the project_**: https://bootstrap2wordpress.netlify.app/
 
@@ -26,6 +27,6 @@ Intially, I developed the webpages simply with the help of CSS and bootstrap and
 
 ### Reference:
 
-Special thanks to **Brad Hussey**, who made this repo possible. [Checkout his course on Udemy.](https://www.udemy.com/course/bootstrap-to-wordpress/)
+&copy; Brad Hussey (if any). Special thanks to **Brad Hussey**, who made this repo possible. [Checkout his course on Udemy.](https://www.udemy.com/course/bootstrap-to-wordpress/)
 
 I followed along with the course lectures to complete this project.
