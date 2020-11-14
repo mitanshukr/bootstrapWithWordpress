@@ -2,7 +2,7 @@
 **A Custom Theme built for Wordpress with the support of Bootstrap.**
 
 A dynamic website with good looking homepage and power of Wordpress to include the Blogging features to the site.
-#### Technologies Used:
+### Technologies Used:
 + HTML
 + CSS
 + Bootstrap4
@@ -13,7 +13,7 @@ A dynamic website with good looking homepage and power of Wordpress to include t
 ##### Strategy: 
 Intially, I developed the webpages simply with the help of CSS and bootstrap and then customized the wordpress theme layout generated with the help of underscore.me to make the website dynamic, while staying in loop with the initially built static webpages.
 
-**_Check out the static UI of the project_**: 
+**_Check out the static UI of the project_**: https://bootstrap2wordpress.netlify.app/
 
 **Note**: The website hosted on Netlify is just a static UI of what I built on Wordpress. You can download the _bootstraptowordpress.zip_ file to check and use the complete implementation of Theme.
 
@@ -27,3 +27,4 @@ Intially, I developed the webpages simply with the help of CSS and bootstrap and
 #### Reference:
 
 Special thanks to **Brad Hussey**, who made this repo possible. [Checkout his course on Udemy.](https://www.udemy.com/course/bootstrap-to-wordpress/)
+I followed along with the course lectures to complete this project.
