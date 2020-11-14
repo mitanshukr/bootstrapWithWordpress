@@ -16,7 +16,7 @@ Intially, I developed the webpages simply with the help of CSS and bootstrap and
 
 **_Check out the static UI of the project_**: https://bootstrap2wordpress.netlify.app/
 
-**Note**: The website hosted on Netlify is just a static UI of what I built on Wordpress. You can download the _bootstraptowordpress.zip_ file to check and use the complete implementation of Theme.
+**Note**: The website hosted on Netlify is just a static UI of what I built on Wordpress. You can download the _bootstrap2wordpress.zip_ file to check and use the complete implementation of Theme.
 
 ### Learning:
 + Refreshed my basics; HTML, CSS, Bootstrap and PHP.
